@@ -1,10 +1,10 @@
-package com.example.izOrmanProject;
+package com.traflux.TrafluxAuthenticationService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IzormanprojectApplicationTests {
+class TrafluxAuthenticationServiceTests {
 
     @Test
     void contextLoads() {
